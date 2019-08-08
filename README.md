@@ -12,7 +12,7 @@ Feel free to email me at andy@andymakes.com.
 
 ## Processing Commands Used
 
-The full [Processing reference](https://processing.org/reference/) is very useful but to save time, here are link to pages for the commands used in this workshop.
+The full [Processing reference](https://processing.org/reference/) is very useful, but to save time, here are link to pages for the commands used in this workshop.
 
 [sin()](https://processing.org/reference/sin_.html)<br>
 [cos()](https://processing.org/reference/cos_.html)<br>
