@@ -1,4 +1,4 @@
-# WONDERVILLE WORKSHOP:TRIG FOR GAMES BY ANDY WALLACE
+# WONDERVILLE WORKSHOP: TRIG FOR GAMES BY ANDY WALLACE
 
 This repository contains resources for the Trigonometry Workshop taught at Wonderville NYC on 2019.08.10
 
