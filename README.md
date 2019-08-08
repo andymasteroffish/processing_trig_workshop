@@ -23,7 +23,7 @@ The full [Processing reference](https://processing.org/reference/) is very usefu
 [stroke()](https://processing.org/reference/stroke_.html)
 [fill()](https://processing.org/reference/fill_.html)
 
-[size()](https://processing.org/reference/size_.html)
+[size()](https://processing.org/reference/size_.html) 
 [background()](https://processing.org/reference/background_.html)
 
 [mouseX](https://processing.org/reference/mouseX.html)
