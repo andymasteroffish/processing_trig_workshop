@@ -10,7 +10,7 @@ Each folder contains a different Processing example from this class. You can che
 
 The full [Processing reference](https://processing.org/reference/) is very useful but to save time, here are link to pages for the commands used in this workshop.
 
-[sin()](https://processing.org/reference/sin_.html)
+[sin()](https://processing.org/reference/sin_.html)<br>
 [cos()](https://processing.org/reference/cos_.html)
 [atan2()](https://processing.org/reference/atan2_.html)
 
