@@ -10,7 +10,7 @@ PImage sprite;
 
 void setup(){
   size(300,300);
-  sprite = loadImage("player_fire.png");
+  sprite = loadImage("player.png");
   //this image is 256x256
 }  
 

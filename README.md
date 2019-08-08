@@ -6,6 +6,10 @@ Thank you for supporting Wonderville!
 
 Each folder contains a different Processing example from this class. You can check out the code for individual exmaples, or download the entire repository as a zip file by clicking the green "clone or download" button on the top left.
 
+player.png is used in the stretch and bounce example. I copied it into the root of this repo to make it easier to find.
+
+Feel free to email me at andy@andymakes.com.
+
 ## Processing Commands Used
 
 The full [Processing reference](https://processing.org/reference/) is very useful but to save time, here are link to pages for the commands used in this workshop.
